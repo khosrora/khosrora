@@ -1,7 +1,7 @@
   <p>
    <img src="https://media.giphy.com/media/THCpwnKXcdlIc/giphy.gif" width="100" />
       Hi there 👋
-            I am a web Developer from Iran
+           
   </p>
 <!--   <img src="https://media.giphy.com/media/yPhqlJccIOaru/giphy.gif" width="50" /> -->
   <a href="https://www.linkedin.com/in/khosro-rasouli-aaa66182/">
