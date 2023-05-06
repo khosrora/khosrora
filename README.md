@@ -14,14 +14,18 @@
 <pre>
 const khosrora = {     
     pronouns: "He" | "Him",     
-    code: ["Node.js", "nestjs" ,"javaScript", "TypeScript" , "MongoDB" , "postgresql"],     
+    code: ["javaScript","TypeScript"],     
     technologies: {             
         backEnd: {             
-          js: ["Nodejs", "nestjs"],             
+          framework : ["Nodejs", "nestjs"],
+          database  : ["MongoDB" , "postgresql"]
         },         
         frontEnd: {             
           web: ["html","css","bootstrap" , "tailwind" , "reactjs" , "nextjs"],         
-        },         
+        },
+        phone : {
+          ['react native cli' , ' expo ']
+        }
    },     
 };
 </pre>
