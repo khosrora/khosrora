@@ -17,8 +17,8 @@ const khosrora = {
     code: ["javaScript","TypeScript"],     
     technologies: {             
         backEnd: {             
-          framework : ["Nodejs", "nestjs"],
-          database  : ["MongoDB" , "postgresql"]
+          ["nodejs", "nestjs"],
+          database  : ["mongoDB" , "postgresql"]
         },         
         frontEnd: {             
           web: ["html","css","bootstrap" , "tailwind" , "reactjs" , "nextjs"],         
