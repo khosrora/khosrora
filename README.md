@@ -19,6 +19,7 @@ const khosrora = {
         backEnd: {             
           ["nodejs", "nestjs"],
           database  : ["mongoDB" , "postgresql"]
+          rest && graphql :)
         },         
         frontEnd: {             
           web: ["html","css","bootstrap" , "tailwind" , "reactjs" , "nextjs"],         
